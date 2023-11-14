@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HB JetPack Exercises"
+rootProject.name = "hbjetpackexercises"
 include(":app")
  
